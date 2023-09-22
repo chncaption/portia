@@ -1,5 +1,5 @@
 # Slyd requirements
-twisted==19.2.1
+twisted==22.10.0rc1
 pyOpenSSL==17.5.0
 service_identity==18.1.0
 requests>=2.20.0
@@ -13,3 +13,4 @@ mock==2.0.0
 
 # Splash dev
 https://github.com/scrapinghub/splash/archive/3.2.x.tar.gz
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
