@@ -4,7 +4,7 @@ Scrapy==1.6.0
 scrapely==0.13.5
 loginform==1.2.0
 lxml==4.3.4
-dateparser==0.7.1
+dateparser==1.1.6
 python-dateutil==2.8.0
 jsonschema==2.6.0
 six==1.12.0
