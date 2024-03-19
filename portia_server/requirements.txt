@@ -13,3 +13,4 @@ toposort==1.5
 whitenoise==3.3.1
 portia2code==0.0.17
 shub==2.7.0
+scrapy>=2.11.1 # not directly required, pinned by Snyk to avoid a vulnerability
